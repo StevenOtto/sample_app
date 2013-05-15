@@ -1,6 +1,6 @@
 # Twitter Clone
 
-This is a very basic Twitter clone.
+This is a very basic Twitter clone written in Ruby on Rails.
 
 Features include:
 * Account creation
